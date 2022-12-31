@@ -1,4 +1,6 @@
 # Fitness Guide
+DEPENDENCIES:
+'Tkinter 8.6'
 
 Nowadays, everyone aspires to maintain a healthy and fit body. As a result, the demand for weight loss and fitness applications is increasing. Therefore, in this project I want to develop a basic program that would help the users set a fitness goal. After gathering relevant information from the user, it will inform them about his/her fitness status and assists them in setting a goal. 
 
